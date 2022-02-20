@@ -46,7 +46,7 @@ CREATE TABLE titles (
 
 CREATE TABLE dept_emp (
   emp_no INT NOT NULL,
-  dept_no INT NOT NULL,
+  dept_no VARCHAR(4) NOT NULL,
   from_date DATE NOT NUll,
   to_date DATE NOT NULL
 );
