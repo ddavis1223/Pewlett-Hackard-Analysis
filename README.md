@@ -14,7 +14,7 @@ From this analysis, we can conclude four major points:
  
  ![retiring_titles](retiring_titles.png)
  
- ![number of people retiring](number_of_people_retiring.png)
+ ![Number of people retiring](Number_of_people_retiring.png)
  
  
 ## Summary
