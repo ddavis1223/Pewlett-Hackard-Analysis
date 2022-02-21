@@ -13,7 +13,7 @@ From this analysis, we can conclude four major points:
 * There is 1,549 employees who are eligible to mentor employees in Pewlett Hackard.
  
  ![retiring_titles](retiring_titles.png)
- ![number_of_people_retiring](number_of_people_retiring.png)
+ ![number_of_people_retiring](number of people retiring.png)
  
  
 ## Summary
