@@ -23,5 +23,5 @@ There are not enough qualified, retirement-ready employees in the department to 
 When examining the employees table, we noticed that there are no employees that was born in the 1970s; therefore the management needs to hire younger employees so the company will not experience a silver tsunami.
 
 ![mentorship_eligibility](mentorship_eligibility.png)
-![mentor_title](mentor_title.png)
+![Mentor_title](Mentor_title.png)
 
