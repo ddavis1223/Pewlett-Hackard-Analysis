@@ -14,7 +14,7 @@ From this analysis, we can conclude four major points:
  
  ![retiring_titles](retiring_titles.png)
  
-![Number of people retiring](Number_of_people_retiring.png) 
+https://github.com/ddavis1223/Pewlett-Hackard-Analysis/blob/main/Number%20of%20people%20retiring.png
  
  
 ## Summary
