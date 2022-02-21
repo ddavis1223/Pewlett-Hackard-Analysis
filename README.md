@@ -10,7 +10,7 @@ From this analysis, we can conclude four major points:
      * There are a lot of senior leadership that is eligible to retire.
      * There are 41,380 employees that are eligible to retire with a hiring date between 01/01/198 -12/31/1988 with a birthdate that range from 01/01/1952 -12/31/1955.
      * The hardest department that will be affected by the silver tsunami is the Senior Engineer staff.
-     * There are a significant amount of senior staff that are eligible to mentor employees in Pewlett Hackard.
+     * There is 1,549 employees who are eligible to mentor employees in Pewlett Hackard.
  
 
 ## Summary
