@@ -15,4 +15,4 @@ From this analysis, we can conclude four major points:
 
 ## Summary
 There are 72,458 number of roles that need to be filled as the silver tsunami begins to make an impact.
-Yes, there are enough qualified, retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees.
+There are not enough qualified, retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees.
